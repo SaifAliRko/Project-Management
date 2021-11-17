@@ -1,3 +1,20 @@
+<h1 align="center"> Workwise Task day trial</h1>
+
+ ## Built With
+<div style="display: flex">
+  <img alt="Sass" src ="	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ 
+</div>
+
+
+## Live App Below :point_down:
+https://project-management-26da0.web.app
+
+
+##About App
+With this app you can sett up multiple status lanes (backlog, in progress and done) and dynamically add tasks to them. Each task can be given a title and a description and assigned an urgency/priority label. You can also move tasks between the status lanes, edit them, delete them and save them in the browser's localStorage.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
